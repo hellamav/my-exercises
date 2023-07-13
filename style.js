@@ -26,15 +26,16 @@ console.log(result);
 
 //Objects, Arrays + Json
 // creating an object using literal notation
+/*
 let darthvader = { allegiance: "empire", weapon:"lightsabre", sith:"true" };
 console.log(darthvader)
 console.log("Darth Vader's allengiance is to the", darthvader.allegiance);
 console.log("Darth Vader's allengiance is to the", darthvader.weapon);
 console.log(`Darth Vader is a sith? ${darthvader.sith}`);
 console.log(`Darth Vader is a sith? ${darthvader.sith ? "false" : "true"}`);
-
+*/
 //create an array with 2 elements
-
+/*
 let myArray = ["hell0", "everyone"];
 //find the length of the array
 console.log(myArray.length);
@@ -48,3 +49,8 @@ console.log(myArray)
 for (let i in myArray) {
     console.log(myArray);
 }
+*/
+//----------------------------------------------------------------
+
+//Calculator
+
